@@ -10,7 +10,7 @@ export default function PartnersPage() {
       
       <main className="pt-[117px]">
         {/* Hero Section */}
-        <section className="py-20 md:py-32 bg-gradient-to-b from-[#0a0b0f] via-[#10121b] to-[#0a0b0f]">
+        <section className="py-20 md:py-32 bg-gradient-to-black from-[#0a0b0f] via-[#10121b] to-[#0a0b0f]">
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-4xl md:text-6xl font-bold mb-6">
